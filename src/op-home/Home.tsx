@@ -16,7 +16,6 @@ export const Home: FC = observer(function () {
   const { board } = useBoardStores();
 
   // Animations setup
-  // https://github.com/facebook/react-native/issues/27146
   const maxOpacity = Platform.OS === "android" ? 0.99 : 1;
   const animateInSequence = !router.hasLoadedHomeOnce;
   const titleAnimDuration = 600;

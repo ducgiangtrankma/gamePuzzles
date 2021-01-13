@@ -45,7 +45,6 @@ export const Game: FC = observer(function () {
   useHardwareBackButton(navigateToHome);
 
   // Animations setup
-  // https://github.com/facebook/react-native/issues/27146
   const maxOpacity = Platform.OS === "android" ? 0.99 : 1;
   const fadeInterfaceInAnimDuration = 400;
   const fadeInterfaceOutAnimDuration = 200;

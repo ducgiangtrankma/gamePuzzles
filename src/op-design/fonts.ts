@@ -2,10 +2,6 @@ import { Platform } from "react-native";
 import { useAvertaFont } from "op-config";
 
 // Font used across the entire app (menu, title, messages, buttons).
-// In production it's the "Averta" font.
-// I'm not distributing the Averta font on GitHub.
-// If you want to contribute, you can toggle off the "useAvertaFont" config
-// variable.
 const primaryFont = {
   regular: {
     fontFamily: useAvertaFont ? "Averta-Regular" : undefined,

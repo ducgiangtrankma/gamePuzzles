@@ -1,5 +1,5 @@
 export const credits = [
-  "game design by\nMatteo Mazzarolo",
-  "puzzles design by\nJuho Snellman",
-  "font design by\nKostas Bartsokas",
+  "game design by\nZin KMA",
+  "puzzles design by\nZin KMA",
+  "font design by\nZin KMA",
 ];
