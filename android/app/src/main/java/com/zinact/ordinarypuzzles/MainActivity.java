@@ -1,4 +1,4 @@
-package com.mmazzarolo.ordinarypuzzles;
+package com.zinact.ordinarypuzzles;
 
 import android.os.Bundle;
 
@@ -14,7 +14,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "OrdinaryPuzzles";
+    return "OrdinaryPuzzless";
   }
 
   @Override

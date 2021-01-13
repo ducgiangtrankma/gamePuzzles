@@ -145,7 +145,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.mmazzarolo.ordinarypuzzles"
+        applicationId "com.zinact.ordinarypuzzles"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 7
@@ -169,9 +169,9 @@ android {
         release {
             if (project.hasProperty('ORDINARY_PUZZLES_RELEASE_STORE_FILE')) {
                 storeFile file(ORDINARY_PUZZLES_RELEASE_STORE_FILE)
-                storePassword getPassword("mmazzarolo", "OrdinaryPuzzles Android Keystore")
+                storePassword getPassword("zinact", "OrdinaryPuzzles Android Keystore")
                 keyAlias ORDINARY_PUZZLES_RELEASE_KEY_ALIAS
-                keyPassword getPassword("mmazzarolo", "OrdinaryPuzzles Android Keystore")
+                keyPassword getPassword("zinact", "OrdinaryPuzzles Android Keystore")
             }
         }
     }

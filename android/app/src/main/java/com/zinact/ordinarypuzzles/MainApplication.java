@@ -1,4 +1,4 @@
-package com.mmazzarolo.ordinarypuzzles;
+package com.zinact.ordinarypuzzles;
 
 import android.app.Application;
 import android.content.Context;

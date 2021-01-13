@@ -7,24 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* OrdinaryPuzzlesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* OrdinaryPuzzlesTests.m */; };
-		03EC262B658CF7CF7908B21E /* libPods-OrdinaryPuzzlesTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C4557D5C076DC5F5DA071F7 /* libPods-OrdinaryPuzzlesTests.a */; };
+		00E356F31AD99517003FC87E /* OrdinaryPuzzlessTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* OrdinaryPuzzlessTests.m */; };
+		03EC262B658CF7CF7908B21E /* libPods-OrdinaryPuzzlessTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7C4557D5C076DC5F5DA071F7 /* libPods-OrdinaryPuzzlessTests.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		141F8875D0B4CF8CCD0DB731 /* libPods-OrdinaryPuzzles-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3834F936ADED135ECA81FABE /* libPods-OrdinaryPuzzles-tvOSTests.a */; };
+		141F8875D0B4CF8CCD0DB731 /* libPods-OrdinaryPuzzless-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3834F936ADED135ECA81FABE /* libPods-OrdinaryPuzzless-tvOSTests.a */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* OrdinaryPuzzlesTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* OrdinaryPuzzlesTests.m */; };
-		3ABE91BBC7684462EB35985B /* libPods-OrdinaryPuzzles.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EF613D4E546FE8A9B12664C /* libPods-OrdinaryPuzzles.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* OrdinaryPuzzlessTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* OrdinaryPuzzlessTests.m */; };
+		3ABE91BBC7684462EB35985B /* libPods-OrdinaryPuzzless.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8EF613D4E546FE8A9B12664C /* libPods-OrdinaryPuzzless.a */; };
 		43E49040E6164FC0ABAA1ACF /* Averta-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BE2FE4A3510C4E1F8BE75EF3 /* Averta-Regular.ttf */; };
 		5150BF0B239BAA6000A5F9B4 /* buttonpress.wav in Resources */ = {isa = PBXBuildFile; fileRef = 5150BF0A239BAA6000A5F9B4 /* buttonpress.wav */; };
 		518CF2D22533528B00219EA3 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 518CF2D12533528B00219EA3 /* File.swift */; };
 		518CF2D32533528B00219EA3 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 518CF2D12533528B00219EA3 /* File.swift */; };
 		6E34764FB16848BE94C71365 /* Inter-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = A8B105CD915844AF8A5AA3B2 /* Inter-SemiBold.otf */; };
-		72E80D52D40AE65DD944254E /* libPods-OrdinaryPuzzles-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E01BCBFDF023DEBB88DBB4B8 /* libPods-OrdinaryPuzzles-tvOS.a */; };
+		72E80D52D40AE65DD944254E /* libPods-OrdinaryPuzzless-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E01BCBFDF023DEBB88DBB4B8 /* libPods-OrdinaryPuzzless-tvOS.a */; };
 		7D5E196635A04FCEB1DF7687 /* Averta-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C4497DB6275B42518FA477B0 /* Averta-Semibold.ttf */; };
 		EF8E5AF3B1A247D0BE9960BB /* Averta-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A8A7854599794978A3185201 /* Averta-Bold.ttf */; };
 /* End PBXBuildFile section */
@@ -35,51 +35,51 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = OrdinaryPuzzles;
+			remoteInfo = OrdinaryPuzzless;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "OrdinaryPuzzles-tvOS";
+			remoteInfo = "OrdinaryPuzzless-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* OrdinaryPuzzlesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OrdinaryPuzzlesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* OrdinaryPuzzlessTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OrdinaryPuzzlessTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* OrdinaryPuzzlesTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OrdinaryPuzzlesTests.m; sourceTree = "<group>"; };
-		123ACF053FE05A9E617A8610 /* Pods-OrdinaryPuzzles-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzles-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzles-tvOS/Pods-OrdinaryPuzzles-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* OrdinaryPuzzles.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OrdinaryPuzzles.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = OrdinaryPuzzles/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = OrdinaryPuzzles/AppDelegate.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* OrdinaryPuzzlessTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OrdinaryPuzzlessTests.m; sourceTree = "<group>"; };
+		123ACF053FE05A9E617A8610 /* Pods-OrdinaryPuzzless-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzless-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzless-tvOS/Pods-OrdinaryPuzzless-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* OrdinaryPuzzless.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OrdinaryPuzzless.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = OrdinaryPuzzless/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = OrdinaryPuzzless/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = OrdinaryPuzzles/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = OrdinaryPuzzles/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = OrdinaryPuzzles/main.m; sourceTree = "<group>"; };
-		218F9A40F41732F4C32785C1 /* Pods-OrdinaryPuzzles-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzles-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzles-tvOSTests/Pods-OrdinaryPuzzles-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* OrdinaryPuzzles-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OrdinaryPuzzles-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* OrdinaryPuzzles-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "OrdinaryPuzzles-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		3834F936ADED135ECA81FABE /* libPods-OrdinaryPuzzles-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrdinaryPuzzles-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = OrdinaryPuzzless/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = OrdinaryPuzzless/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = OrdinaryPuzzless/main.m; sourceTree = "<group>"; };
+		218F9A40F41732F4C32785C1 /* Pods-OrdinaryPuzzless-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzless-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzless-tvOSTests/Pods-OrdinaryPuzzless-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* OrdinaryPuzzless-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "OrdinaryPuzzless-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* OrdinaryPuzzless-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "OrdinaryPuzzless-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3834F936ADED135ECA81FABE /* libPods-OrdinaryPuzzless-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrdinaryPuzzless-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5150BF0A239BAA6000A5F9B4 /* buttonpress.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = buttonpress.wav; path = ../assets/audio/buttonpress.wav; sourceTree = "<group>"; };
-		518CF263253343B500219EA3 /* OrdinaryPuzzles-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "OrdinaryPuzzles-Bridging-Header.h"; sourceTree = "<group>"; };
-		518CF264253343B500219EA3 /* OrdinaryPuzzles-tvOS-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "OrdinaryPuzzles-tvOS-Bridging-Header.h"; sourceTree = "<group>"; };
+		518CF263253343B500219EA3 /* OrdinaryPuzzless-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "OrdinaryPuzzless-Bridging-Header.h"; sourceTree = "<group>"; };
+		518CF264253343B500219EA3 /* OrdinaryPuzzless-tvOS-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "OrdinaryPuzzless-tvOS-Bridging-Header.h"; sourceTree = "<group>"; };
 		518CF2D12533528B00219EA3 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
-		7C4557D5C076DC5F5DA071F7 /* libPods-OrdinaryPuzzlesTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrdinaryPuzzlesTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8EF613D4E546FE8A9B12664C /* libPods-OrdinaryPuzzles.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrdinaryPuzzles.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7C4557D5C076DC5F5DA071F7 /* libPods-OrdinaryPuzzlessTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrdinaryPuzzlessTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8EF613D4E546FE8A9B12664C /* libPods-OrdinaryPuzzless.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrdinaryPuzzless.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8A7854599794978A3185201 /* Averta-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Averta-Bold.ttf"; path = "../assets/fonts/Averta-Bold.ttf"; sourceTree = "<group>"; };
 		A8B105CD915844AF8A5AA3B2 /* Inter-SemiBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-SemiBold.otf"; path = "../assets/fonts/Inter-SemiBold.otf"; sourceTree = "<group>"; };
-		B15AAC86F458465CD4F92CCB /* Pods-OrdinaryPuzzlesTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzlesTests.debug.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzlesTests/Pods-OrdinaryPuzzlesTests.debug.xcconfig"; sourceTree = "<group>"; };
-		B52B5EF102811614098A24AD /* Pods-OrdinaryPuzzles.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzles.debug.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzles/Pods-OrdinaryPuzzles.debug.xcconfig"; sourceTree = "<group>"; };
+		B15AAC86F458465CD4F92CCB /* Pods-OrdinaryPuzzlessTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzlessTests.debug.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzlessTests/Pods-OrdinaryPuzzlessTests.debug.xcconfig"; sourceTree = "<group>"; };
+		B52B5EF102811614098A24AD /* Pods-OrdinaryPuzzless.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzless.debug.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzless/Pods-OrdinaryPuzzless.debug.xcconfig"; sourceTree = "<group>"; };
 		BE2FE4A3510C4E1F8BE75EF3 /* Averta-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Averta-Regular.ttf"; path = "../assets/fonts/Averta-Regular.ttf"; sourceTree = "<group>"; };
 		C4497DB6275B42518FA477B0 /* Averta-Semibold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Averta-Semibold.ttf"; path = "../assets/fonts/Averta-Semibold.ttf"; sourceTree = "<group>"; };
-		DD7C2B963C48861CDF801BC0 /* Pods-OrdinaryPuzzlesTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzlesTests.release.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzlesTests/Pods-OrdinaryPuzzlesTests.release.xcconfig"; sourceTree = "<group>"; };
-		DE53C533EA9F2AD86ABEAACB /* Pods-OrdinaryPuzzles.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzles.release.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzles/Pods-OrdinaryPuzzles.release.xcconfig"; sourceTree = "<group>"; };
-		E01BCBFDF023DEBB88DBB4B8 /* libPods-OrdinaryPuzzles-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrdinaryPuzzles-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		EA7CF57A81FE3CE0C37A4EB8 /* Pods-OrdinaryPuzzles-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzles-tvOS.release.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzles-tvOS/Pods-OrdinaryPuzzles-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		EC514E7125FD315A1D376325 /* Pods-OrdinaryPuzzles-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzles-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzles-tvOSTests/Pods-OrdinaryPuzzles-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		DD7C2B963C48861CDF801BC0 /* Pods-OrdinaryPuzzlessTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzlessTests.release.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzlessTests/Pods-OrdinaryPuzzlessTests.release.xcconfig"; sourceTree = "<group>"; };
+		DE53C533EA9F2AD86ABEAACB /* Pods-OrdinaryPuzzless.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzless.release.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzless/Pods-OrdinaryPuzzless.release.xcconfig"; sourceTree = "<group>"; };
+		E01BCBFDF023DEBB88DBB4B8 /* libPods-OrdinaryPuzzless-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-OrdinaryPuzzless-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EA7CF57A81FE3CE0C37A4EB8 /* Pods-OrdinaryPuzzless-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzless-tvOS.release.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzless-tvOS/Pods-OrdinaryPuzzless-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		EC514E7125FD315A1D376325 /* Pods-OrdinaryPuzzless-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-OrdinaryPuzzless-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-OrdinaryPuzzless-tvOSTests/Pods-OrdinaryPuzzless-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
@@ -89,7 +89,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				03EC262B658CF7CF7908B21E /* libPods-OrdinaryPuzzlesTests.a in Frameworks */,
+				03EC262B658CF7CF7908B21E /* libPods-OrdinaryPuzzlessTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -97,7 +97,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3ABE91BBC7684462EB35985B /* libPods-OrdinaryPuzzles.a in Frameworks */,
+				3ABE91BBC7684462EB35985B /* libPods-OrdinaryPuzzless.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -105,7 +105,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				72E80D52D40AE65DD944254E /* libPods-OrdinaryPuzzles-tvOS.a in Frameworks */,
+				72E80D52D40AE65DD944254E /* libPods-OrdinaryPuzzless-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -113,20 +113,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				141F8875D0B4CF8CCD0DB731 /* libPods-OrdinaryPuzzles-tvOSTests.a in Frameworks */,
+				141F8875D0B4CF8CCD0DB731 /* libPods-OrdinaryPuzzless-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* OrdinaryPuzzlesTests */ = {
+		00E356EF1AD99517003FC87E /* OrdinaryPuzzlessTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* OrdinaryPuzzlesTests.m */,
+				00E356F21AD99517003FC87E /* OrdinaryPuzzlessTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = OrdinaryPuzzlesTests;
+			path = OrdinaryPuzzlessTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -148,7 +148,7 @@
 			name = Resources;
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* OrdinaryPuzzles */ = {
+		13B07FAE1A68108700A75B9A /* OrdinaryPuzzless */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -159,10 +159,10 @@
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
-				518CF263253343B500219EA3 /* OrdinaryPuzzles-Bridging-Header.h */,
-				518CF264253343B500219EA3 /* OrdinaryPuzzles-tvOS-Bridging-Header.h */,
+				518CF263253343B500219EA3 /* OrdinaryPuzzless-Bridging-Header.h */,
+				518CF264253343B500219EA3 /* OrdinaryPuzzless-tvOS-Bridging-Header.h */,
 			);
-			name = OrdinaryPuzzles;
+			name = OrdinaryPuzzless;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -170,10 +170,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				8EF613D4E546FE8A9B12664C /* libPods-OrdinaryPuzzles.a */,
-				E01BCBFDF023DEBB88DBB4B8 /* libPods-OrdinaryPuzzles-tvOS.a */,
-				3834F936ADED135ECA81FABE /* libPods-OrdinaryPuzzles-tvOSTests.a */,
-				7C4557D5C076DC5F5DA071F7 /* libPods-OrdinaryPuzzlesTests.a */,
+				8EF613D4E546FE8A9B12664C /* libPods-OrdinaryPuzzless.a */,
+				E01BCBFDF023DEBB88DBB4B8 /* libPods-OrdinaryPuzzless-tvOS.a */,
+				3834F936ADED135ECA81FABE /* libPods-OrdinaryPuzzless-tvOSTests.a */,
+				7C4557D5C076DC5F5DA071F7 /* libPods-OrdinaryPuzzlessTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -189,9 +189,9 @@
 			isa = PBXGroup;
 			children = (
 				5150BF0A239BAA6000A5F9B4 /* buttonpress.wav */,
-				13B07FAE1A68108700A75B9A /* OrdinaryPuzzles */,
+				13B07FAE1A68108700A75B9A /* OrdinaryPuzzless */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* OrdinaryPuzzlesTests */,
+				00E356EF1AD99517003FC87E /* OrdinaryPuzzlessTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				FEC017CEC7C32A74F5A34348 /* Pods */,
@@ -205,10 +205,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* OrdinaryPuzzles.app */,
-				00E356EE1AD99517003FC87E /* OrdinaryPuzzlesTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* OrdinaryPuzzles-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* OrdinaryPuzzles-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* OrdinaryPuzzless.app */,
+				00E356EE1AD99517003FC87E /* OrdinaryPuzzlessTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* OrdinaryPuzzless-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* OrdinaryPuzzless-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -216,14 +216,14 @@
 		FEC017CEC7C32A74F5A34348 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				B52B5EF102811614098A24AD /* Pods-OrdinaryPuzzles.debug.xcconfig */,
-				DE53C533EA9F2AD86ABEAACB /* Pods-OrdinaryPuzzles.release.xcconfig */,
-				123ACF053FE05A9E617A8610 /* Pods-OrdinaryPuzzles-tvOS.debug.xcconfig */,
-				EA7CF57A81FE3CE0C37A4EB8 /* Pods-OrdinaryPuzzles-tvOS.release.xcconfig */,
-				218F9A40F41732F4C32785C1 /* Pods-OrdinaryPuzzles-tvOSTests.debug.xcconfig */,
-				EC514E7125FD315A1D376325 /* Pods-OrdinaryPuzzles-tvOSTests.release.xcconfig */,
-				B15AAC86F458465CD4F92CCB /* Pods-OrdinaryPuzzlesTests.debug.xcconfig */,
-				DD7C2B963C48861CDF801BC0 /* Pods-OrdinaryPuzzlesTests.release.xcconfig */,
+				B52B5EF102811614098A24AD /* Pods-OrdinaryPuzzless.debug.xcconfig */,
+				DE53C533EA9F2AD86ABEAACB /* Pods-OrdinaryPuzzless.release.xcconfig */,
+				123ACF053FE05A9E617A8610 /* Pods-OrdinaryPuzzless-tvOS.debug.xcconfig */,
+				EA7CF57A81FE3CE0C37A4EB8 /* Pods-OrdinaryPuzzless-tvOS.release.xcconfig */,
+				218F9A40F41732F4C32785C1 /* Pods-OrdinaryPuzzless-tvOSTests.debug.xcconfig */,
+				EC514E7125FD315A1D376325 /* Pods-OrdinaryPuzzless-tvOSTests.release.xcconfig */,
+				B15AAC86F458465CD4F92CCB /* Pods-OrdinaryPuzzlessTests.debug.xcconfig */,
+				DD7C2B963C48861CDF801BC0 /* Pods-OrdinaryPuzzlessTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -231,9 +231,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* OrdinaryPuzzlesTests */ = {
+		00E356ED1AD99517003FC87E /* OrdinaryPuzzlessTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "OrdinaryPuzzlesTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "OrdinaryPuzzlessTests" */;
 			buildPhases = (
 				615B8E08C8DC492D3893E86A /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -245,14 +245,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = OrdinaryPuzzlesTests;
-			productName = OrdinaryPuzzlesTests;
-			productReference = 00E356EE1AD99517003FC87E /* OrdinaryPuzzlesTests.xctest */;
+			name = OrdinaryPuzzlessTests;
+			productName = OrdinaryPuzzlessTests;
+			productReference = 00E356EE1AD99517003FC87E /* OrdinaryPuzzlessTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* OrdinaryPuzzles */ = {
+		13B07F861A680F5B00A75B9A /* OrdinaryPuzzless */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "OrdinaryPuzzles" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "OrdinaryPuzzless" */;
 			buildPhases = (
 				7116F2E3B833A41B2B79D578 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -266,14 +266,14 @@
 			);
 			dependencies = (
 			);
-			name = OrdinaryPuzzles;
-			productName = OrdinaryPuzzles;
-			productReference = 13B07F961A680F5B00A75B9A /* OrdinaryPuzzles.app */;
+			name = OrdinaryPuzzless;
+			productName = OrdinaryPuzzless;
+			productReference = 13B07F961A680F5B00A75B9A /* OrdinaryPuzzless.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* OrdinaryPuzzles-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* OrdinaryPuzzless-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OrdinaryPuzzles-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OrdinaryPuzzless-tvOS" */;
 			buildPhases = (
 				D54A261D4248EB765B842CAA /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -286,14 +286,14 @@
 			);
 			dependencies = (
 			);
-			name = "OrdinaryPuzzles-tvOS";
-			productName = "OrdinaryPuzzles-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* OrdinaryPuzzles-tvOS.app */;
+			name = "OrdinaryPuzzless-tvOS";
+			productName = "OrdinaryPuzzless-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* OrdinaryPuzzless-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* OrdinaryPuzzles-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* OrdinaryPuzzless-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OrdinaryPuzzles-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OrdinaryPuzzless-tvOSTests" */;
 			buildPhases = (
 				41606E067E0E2DFA38D07BC7 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -305,9 +305,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "OrdinaryPuzzles-tvOSTests";
-			productName = "OrdinaryPuzzles-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* OrdinaryPuzzles-tvOSTests.xctest */;
+			name = "OrdinaryPuzzless-tvOSTests";
+			productName = "OrdinaryPuzzless-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* OrdinaryPuzzless-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -340,7 +340,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "OrdinaryPuzzles" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "OrdinaryPuzzless" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -354,10 +354,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* OrdinaryPuzzles */,
-				00E356ED1AD99517003FC87E /* OrdinaryPuzzlesTests */,
-				2D02E47A1E0B4A5D006451C7 /* OrdinaryPuzzles-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* OrdinaryPuzzles-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* OrdinaryPuzzless */,
+				00E356ED1AD99517003FC87E /* OrdinaryPuzzlessTests */,
+				2D02E47A1E0B4A5D006451C7 /* OrdinaryPuzzless-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* OrdinaryPuzzless-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -445,7 +445,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-OrdinaryPuzzles-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-OrdinaryPuzzless-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -467,7 +467,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-OrdinaryPuzzlesTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-OrdinaryPuzzlessTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -489,7 +489,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-OrdinaryPuzzles-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-OrdinaryPuzzless-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -511,7 +511,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-OrdinaryPuzzles-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-OrdinaryPuzzless-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -524,7 +524,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-OrdinaryPuzzles/Pods-OrdinaryPuzzles-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-OrdinaryPuzzless/Pods-OrdinaryPuzzless-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle",
 			);
 			name = "[CP] Copy Pods Resources";
@@ -533,7 +533,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-OrdinaryPuzzles/Pods-OrdinaryPuzzles-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-OrdinaryPuzzless/Pods-OrdinaryPuzzless-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -581,7 +581,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* OrdinaryPuzzlesTests.m in Sources */,
+				00E356F31AD99517003FC87E /* OrdinaryPuzzlessTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -609,7 +609,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* OrdinaryPuzzlesTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* OrdinaryPuzzlessTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -618,12 +618,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* OrdinaryPuzzles */;
+			target = 13B07F861A680F5B00A75B9A /* OrdinaryPuzzless */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* OrdinaryPuzzles-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* OrdinaryPuzzless-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -635,7 +635,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = OrdinaryPuzzles;
+			path = OrdinaryPuzzless;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -643,7 +643,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B15AAC86F458465CD4F92CCB /* Pods-OrdinaryPuzzlesTests.debug.xcconfig */;
+			baseConfigurationReference = B15AAC86F458465CD4F92CCB /* Pods-OrdinaryPuzzlessTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -652,7 +652,7 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = OrdinaryPuzzlesTests/Info.plist;
+				INFOPLIST_FILE = OrdinaryPuzzlessTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -662,19 +662,19 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OrdinaryPuzzles.app/OrdinaryPuzzles";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OrdinaryPuzzless.app/OrdinaryPuzzless";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DD7C2B963C48861CDF801BC0 /* Pods-OrdinaryPuzzlesTests.release.xcconfig */;
+			baseConfigurationReference = DD7C2B963C48861CDF801BC0 /* Pods-OrdinaryPuzzlessTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
 				DEVELOPMENT_TEAM = G65HTDBUSN;
-				INFOPLIST_FILE = OrdinaryPuzzlesTests/Info.plist;
+				INFOPLIST_FILE = OrdinaryPuzzlessTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -684,13 +684,13 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OrdinaryPuzzles.app/OrdinaryPuzzles";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OrdinaryPuzzless.app/OrdinaryPuzzless";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B52B5EF102811614098A24AD /* Pods-OrdinaryPuzzles.debug.xcconfig */;
+			baseConfigurationReference = B52B5EF102811614098A24AD /* Pods-OrdinaryPuzzless.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -698,7 +698,7 @@
 				CURRENT_PROJECT_VERSION = 13;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = 3W4NX74N3J;
-				INFOPLIST_FILE = OrdinaryPuzzles/Info.plist;
+				INFOPLIST_FILE = OrdinaryPuzzless/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.3;
 				OTHER_LDFLAGS = (
@@ -707,8 +707,8 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.actvn.game;
-				PRODUCT_NAME = OrdinaryPuzzles;
-				SWIFT_OBJC_BRIDGING_HEADER = "OrdinaryPuzzles-Bridging-Header.h";
+				PRODUCT_NAME = OrdinaryPuzzless;
+				SWIFT_OBJC_BRIDGING_HEADER = "OrdinaryPuzzless-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -718,14 +718,14 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = DE53C533EA9F2AD86ABEAACB /* Pods-OrdinaryPuzzles.release.xcconfig */;
+			baseConfigurationReference = DE53C533EA9F2AD86ABEAACB /* Pods-OrdinaryPuzzless.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 13;
 				DEVELOPMENT_TEAM = 3W4NX74N3J;
-				INFOPLIST_FILE = OrdinaryPuzzles/Info.plist;
+				INFOPLIST_FILE = OrdinaryPuzzless/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.3;
 				OTHER_LDFLAGS = (
@@ -734,8 +734,8 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.actvn.game;
-				PRODUCT_NAME = OrdinaryPuzzles;
-				SWIFT_OBJC_BRIDGING_HEADER = "OrdinaryPuzzles-Bridging-Header.h";
+				PRODUCT_NAME = OrdinaryPuzzless;
+				SWIFT_OBJC_BRIDGING_HEADER = "OrdinaryPuzzless-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -744,7 +744,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 123ACF053FE05A9E617A8610 /* Pods-OrdinaryPuzzles-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 123ACF053FE05A9E617A8610 /* Pods-OrdinaryPuzzless-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -756,17 +756,17 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "OrdinaryPuzzles-tvOS/Info.plist";
+				INFOPLIST_FILE = "OrdinaryPuzzless-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OrdinaryPuzzles-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OrdinaryPuzzless-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				SWIFT_OBJC_BRIDGING_HEADER = "OrdinaryPuzzles-tvOS-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "OrdinaryPuzzless-tvOS-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -776,7 +776,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EA7CF57A81FE3CE0C37A4EB8 /* Pods-OrdinaryPuzzles-tvOS.release.xcconfig */;
+			baseConfigurationReference = EA7CF57A81FE3CE0C37A4EB8 /* Pods-OrdinaryPuzzless-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -788,17 +788,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "OrdinaryPuzzles-tvOS/Info.plist";
+				INFOPLIST_FILE = "OrdinaryPuzzless-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OrdinaryPuzzles-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OrdinaryPuzzless-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				SWIFT_OBJC_BRIDGING_HEADER = "OrdinaryPuzzles-tvOS-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "OrdinaryPuzzless-tvOS-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.2;
@@ -807,7 +807,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 218F9A40F41732F4C32785C1 /* Pods-OrdinaryPuzzles-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 218F9A40F41732F4C32785C1 /* Pods-OrdinaryPuzzless-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -818,24 +818,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "OrdinaryPuzzles-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "OrdinaryPuzzless-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OrdinaryPuzzles-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OrdinaryPuzzless-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OrdinaryPuzzles-tvOS.app/OrdinaryPuzzles-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OrdinaryPuzzless-tvOS.app/OrdinaryPuzzless-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EC514E7125FD315A1D376325 /* Pods-OrdinaryPuzzles-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = EC514E7125FD315A1D376325 /* Pods-OrdinaryPuzzless-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -846,17 +846,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "OrdinaryPuzzles-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "OrdinaryPuzzless-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OrdinaryPuzzles-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.facebook.REACT.OrdinaryPuzzless-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OrdinaryPuzzles-tvOS.app/OrdinaryPuzzles-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/OrdinaryPuzzless-tvOS.app/OrdinaryPuzzless-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -980,7 +980,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "OrdinaryPuzzlesTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "OrdinaryPuzzlessTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -989,7 +989,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "OrdinaryPuzzles" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "OrdinaryPuzzless" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -998,7 +998,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OrdinaryPuzzles-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OrdinaryPuzzless-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -1007,7 +1007,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OrdinaryPuzzles-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "OrdinaryPuzzless-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -1016,7 +1016,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "OrdinaryPuzzles" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "OrdinaryPuzzless" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,
